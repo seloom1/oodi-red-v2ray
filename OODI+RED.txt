@@ -1,0 +1,1 @@
+vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.26.180:443/?encryption=none&security=tls&fp=qq&sni=lucasjow.us.ci&type=ws&host=lucasjow.us.ci&headerType=none&path=%2fcart%2fdocs%2fwww%2fproxyip%3d108.160.132.132#RED%20OODI%20%E2%9C%85%202
